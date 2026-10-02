@@ -1,5 +1,7 @@
 <h2>NVIDIA AI Blueprint: Video Search and Summarization (VSS)</h2>
 
+> **AskFilm.ai development branch:** this repository is being adapted for basketball film intelligence. Start with [`ASKFILM.md`](ASKFILM.md), the [product context](docs/askfilm/PRODUCT_CONTEXT.md), and the [basketball event grounding](docs/askfilm/BASKETBALL_EVENT_GROUNDING.md). NVIDIA's upstream documentation remains below.
+
 **Build GPU-accelerated video AI agents that search, analyze, summarize, and reason over live or recorded video using natural language.**
 
 NVIDIA AI Blueprint for Video Search and Summarization (VSS) combines vision-language models, RAG, and NVIDIA NIM microservices to deliver real-time video analytics, visual Q&A, alert verification, clip retrieval, and long-video summarization.
